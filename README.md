@@ -65,7 +65,8 @@ Défendre le stade olympique de l'attaque des mutants jusqu'à vaincre le boss f
   - Augmente votre talent de tireur, vous infligez plus de dégâts avec toutes les armes de manière permanente
   - Augmente votre endurance: la barre d'endurance diminue moins vite lorsque vous sprintez, et elle récupère plus vite lorsque vous arrêtez.
 
-- **Médaille olympique**: 
+- **Médaille olympique**:
+- ![Medaille](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/medal1.png)
   - Augmente votre vitesse de sprint
   - Augmente votre hauteur de saut
 
