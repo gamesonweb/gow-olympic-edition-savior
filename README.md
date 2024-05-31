@@ -60,7 +60,8 @@ Défendre le stade olympique de l'attaque des mutants jusqu'à vaincre le boss f
 
 ## Artéfacts Olympiques
 
-- **Torche olympique**: 
+- **Torche olympique**:
+- ![Torche](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/torch.png)
   - Augmente votre talent de tireur, vous infligez plus de dégâts avec toutes les armes de manière permanente
   - Augmente votre endurance: la barre d'endurance diminue moins vite lorsque vous sprintez, et elle récupère plus vite lorsque vous arrêtez.
 
