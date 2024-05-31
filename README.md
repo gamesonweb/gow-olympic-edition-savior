@@ -42,7 +42,11 @@ La touche 9 active un Godmode (triche): toutes vos stats sont au maximum et vous
 
 ## Scénario
 
-Le stade olympique est attaqué par une horde de mutants, votre mission est de repousser cette menace et de vaincre leur chef. Le stade est rempli d'artéfacts olympiques mystérieux qui boostent les capacités athlétiques de votre personnage, comme son endurance, sa vitesse de sprint ou encore ses dégâts.
+Dans un futur où les avancées scientifiques ont conduit à des expériences génétiques incontrôlées, le Stade Olympique devient le théâtre d'une lutte épique. Une horde de mutants, fruit de ces manipulations, envahit l'enceinte sacrée, semant le chaos parmi les spectateurs et les athlètes.
+
+Vous incarnez un héros inattendu, un ancien athlète olympique autrefois acclamé, maintenant confronté à une mission bien différente. Doté d'un passé glorieux, vous êtes désormais investi d'un nouveau rôle : celui de protéger le stade et ses occupants contre les horreurs qui s'y déchaînent.
+
+À travers les dédales du stade, des artefacts olympiques mystérieux révèlent leur pouvoir, vous offrant des compétences physiques surhumaines. Ces dons surprenants augmentent votre endurance, votre vitesse et votre force, vous permettant de rivaliser avec les mutants déchaînés et de restaurer la paix dans ce sanctuaire sportif.
 
 ## Types d'ennemis
 
@@ -60,9 +64,9 @@ Le stade olympique est attaqué par une horde de mutants, votre mission est de r
 
 ## But du jeu
 
-Défendre le stade olympique de l'attaque des mutants jusqu'à vaincre le boss final qui apparaît à la 8ème vague. Les vagues deviennent de plus en plus difficiles à gérer, il vous faudra récupérer le plus possible d'artéfacts olympiques afin d'augmenter les capacités physiques et athlétiques de votre personnage.
+Défendre le stade olympique de l'attaque des mutants jusqu'à vaincre le boss final qui apparaît à la 8ème vague. Les vagues deviennent de plus en plus difficiles à gérer, il vous faudra récupérer le plus possible d'artefacts olympiques afin d'augmenter les capacités physiques et athlétiques de votre personnage.
 
-## Artéfacts Olympiques
+## Artefacts Olympiques
 
 - **Torche olympique**:
  ![Torche](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/torch.png)
@@ -74,7 +78,7 @@ Défendre le stade olympique de l'attaque des mutants jusqu'à vaincre le boss f
   - Augmente votre vitesse de sprint
   - Augmente votre hauteur de saut
 
-Ces artéfacts apparaissent pendant une durée limitée dans le stade, il faut donc rester vigilant afin de les récupérer à temps.
+Ces artefacts apparaissent pendant une durée limitée dans le stade, il faut donc rester vigilant afin de les récupérer à temps.
 
 ## Autres ressources
 
