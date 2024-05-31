@@ -177,7 +177,7 @@ Ce qui m'a posé le plus de problèmes est probablement la gestion de la physiqu
 
 Cependant, petit à petit, j'ai réussi à faire beaucoup de progrès au fil des jours et des semaines. Je me suis beaucoup servit du forum de BabylonJS ainsi que diverses vidéos Youtube pour mon apprentissage.
 
-L'idée de jeu vient du fait que je n'étais pas sûr de quel type de jeu faire au départ, j'ai donc décidé de faire un jeu de type First Person Shooter car je trouvais le concept plutôt amusant et qui pourrait me permettre de découvrir BabylonJS en profondeur. J'ai donc dû trouver un moyen original de le faire correspondre un maximum au thème, d'où l'idée de le faire se dérouler dans un stade olympique attaqué par des mutants, et faire un système de powerups (artefacts) qui augmente les capacités physiques (endurance, vitesse etc...).
+L'idée de jeu vient du fait que je n'étais pas sûr de quel type de jeu faire au départ, j'ai donc décidé de faire un jeu de type First Person Shooter car je trouvais le concept plutôt amusant et qui pourrait me permettre de découvrir BabylonJS en profondeur. J'ai donc dû trouver un moyen original de le faire correspondre un maximum au thème, d'où l'idée de le faire se dérouler dans un stade olympique attaqué par des mutants, et faire un système de powerups (artefacts) qui augmente les capacités physiques (endurance, vitesse etc...), ce qui l'ancre (avec le scénario) assez fermement dans le thème Olympic Edition.
 
 La modélisation 3D elle aussi est un domaine dans lequel j'avais 0 expérience auparavant, étant seul dans mon équipe j'ai du apprendre petit à petit là aussi, cependant j'ai utilisé plusieurs modèles animés gratuits dont j'ai crédité les auteurs dans mon dépot github, ce qui m'a facilité grandement la tâche.
 
