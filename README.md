@@ -1,5 +1,5 @@
 # Projet Games on Web 2024: Savior
-Jeu de type First Person Shooter sur le thème "Olympic Edition".
+Jeu de type First Person Shooter sur le thème "Olympic Edition" pour la compétition Games on Web 2024.
 
 
 # Membres (1):
