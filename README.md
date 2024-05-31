@@ -1,3 +1,4 @@
+
 # Projet Games on Web 2024: Savior
 Jeu de type First Person Shooter sur le thème "Olympic Edition" pour la compétition Games on Web 2024.
 
@@ -46,16 +47,16 @@ Le stade olympique est attaqué par une horde de mutants, votre mission est de r
 ## Types d'ennemis
 
 - **Mutant**: Attaque à dégâts moyens, vitesse moyenne, apparaît dès la première vague, résistance faible. 
-- ![Mutant](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/Mutant.png)
+ ![Mutant](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/Mutant.png)
 
 - **Warrok**: Lourds dégâts, vitesse faible, apparaît à partir de la 2ème vague, résistance moyenne.
-- ![Warrok](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/Warrok.png)
+ ![Warrok](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/Warrok.png)
   
 - **Zombie**: Lourds dégâts et inflige "Blessure mortelle" à chaque attaque: vous perdez alors 2 points de vie par seconde pendant 5 secondes, vitesse moyenne, apparaît à partir de la 4ème vague, grande résistance.
-- -![Zombie](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/Zombie.png)
+ ![Zombie](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/Zombie.png)
   
 - **Boss final**: Vitesse très faible mais très lourds dégâts, très résistant, possède une attaque à distance "Onde de choc" qui vous inflige de lourds dégâts et vous ralentit de 50% pendant 6 secondes.
-- ![Boss](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/Boss.png)
+ ![Boss](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/Boss.png)
 
 ## But du jeu
 
@@ -64,12 +65,12 @@ Défendre le stade olympique de l'attaque des mutants jusqu'à vaincre le boss f
 ## Artéfacts Olympiques
 
 - **Torche olympique**:
-- ![Torche](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/torch.png)
+ ![Torche](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/torch.png)
   - Augmente votre talent de tireur, vous infligez plus de dégâts avec toutes les armes de manière permanente
   - Augmente votre endurance: la barre d'endurance diminue moins vite lorsque vous sprintez, et elle récupère plus vite lorsque vous arrêtez.
 
 - **Médaille olympique**:
-- ![Medaille](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/medal1.png)
+ ![Medaille](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/medal1.png)
   - Augmente votre vitesse de sprint
   - Augmente votre hauteur de saut
 
@@ -79,9 +80,12 @@ Ces artéfacts apparaissent pendant une durée limitée dans le stade, il faut d
 
 - **Caisse de munitions**:
   - Vous donne quelques munitions.
+    ![Ammo](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/ammo.png)
+    
 
 - **Kit de premiers-soins**:
   - Vous rend tous vos points de vie.
+    ![medkit](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/medkit.png)
 
 Ceux-ci ne disparaissent pas, vous pouvez donc choisir, par exemple, de ne pas prendre un kit de premiers-soins avant d'être gravement blessé.
 
@@ -157,6 +161,8 @@ Ouvrez votre navigateur web et accédez à l'URL suivante pour commencer à joue
 
 ```
 http://localhost:8080
+```
+
 ```
 
 
