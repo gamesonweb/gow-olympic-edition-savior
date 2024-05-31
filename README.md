@@ -91,3 +91,59 @@ Ceux-ci ne disparaissent pas, vous pouvez donc choisir, par exemple, de ne pas p
   Utile contre des ennemis très résistants ou un rassemblement important d'ennemis, gourmand en munitions.
 
 Les armes sont débloquées automatiquement dans l'inventaire au moment où elles sont disponibles.
+
+
+# Instructions pour jouer en local
+
+## Prérequis
+
+Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
+
+1. [Node.js et npm](https://nodejs.org/)
+2. [Git](https://git-scm.com/)
+
+## Étapes d'installation
+
+1. **Cloner le dépôt**
+
+   Ouvrez votre terminal et exécutez la commande suivante pour cloner le dépôt GitHub :
+
+   ```bash
+   git clone https://github.com/huss4m/GOW2024-Savior.git
+   ```
+
+2. **Naviguer dans le répertoire du projet**
+
+   Déplacez-vous dans le répertoire du projet cloné :
+
+   ```bash
+   cd GOW2024-Savior
+   ```
+
+3. **Installer les dépendances**
+
+   Exécutez la commande suivante pour installer toutes les dépendances nécessaires :
+
+   ```bash
+   npm install
+   ```
+
+## Démarrer le serveur local
+
+Une fois les dépendances installées, démarrez le serveur de développement local en exécutant la commande suivante :
+
+```bash
+npm run serve
+```
+
+Cette commande lancera le serveur et affichera une URL dans votre terminal, généralement `http://localhost:8080`, où vous pourrez accéder à votre jeu.
+
+## Accéder au jeu
+
+Ouvrez votre navigateur web et accédez à l'URL suivante pour commencer à jouer :
+
+```
+http://localhost:8080
+```
+
+
