@@ -167,10 +167,37 @@ Ouvrez votre navigateur web et accédez à l'URL suivante pour commencer à joue
 http://localhost:8080
 ```
 
-```
 
 
 ## Phase de développement
+
+Le jeu a été fait en TypeScript en utilisant le framework Babylon.js. J'ai également utilisé Vue.js pour le front-end.
+N'ayant pas beaucoup d'expérience en TypeScript/JavaScript et découvrant BabylonJS pour la première fois, j'ai rencontré plusieurs difficultés en cours de route.
+Ce qui m'a posé le plus de problèmes est probablement la gestion de la physique et des collisions. Dans le jeu, le moteur physique que j'ai utilisé pour simuler le saut est CANNON.js.
+
+Cependant, petit à petit, j'ai réussi à faire beaucoup de progrès au fil des jours et des semaines. Je me suis beaucoup servit du forum de BabylonJS ainsi que diverses vidéos Youtube pour mon apprentissage.
+
+L'idée de jeu vient du fait que je n'étais pas sûr de quel type de jeu faire au départ, j'ai donc décidé de faire un jeu de type First Person Shooter car je trouvais le concept plutôt amusant et qui pourrait me permettre de découvrir BabylonJS en profondeur. J'ai donc dû trouver un moyen original de le faire correspondre un maximum au thème, d'où l'idée de le faire se dérouler dans un stade olympique attaqué par des mutants, et faire un système de powerups (artefacts) qui augmente les capacités physiques (endurance, vitesse etc...).
+
+La modélisation 3D elle aussi est un domaine dans lequel j'avais 0 expérience auparavant, étant seul dans mon équipe j'ai du apprendre petit à petit là aussi, cependant j'ai utilisé plusieurs modèles animés gratuits dont j'ai crédité les auteurs dans mon dépot github, ce qui m'a facilité grandement la tâche.
+
+Voici quelques screenshots:
+
+- Premiers pas:
+![premiers pas](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/premierpas.png)
+
+![premiers pas](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/encore.png)
+
+- Mes premiers tests avec des modèles de monstres animés, j'avais galéré avec les collisions ici:
+![premiers test](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/testcollision.png)
+
+![encore](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/testcollision2.png)
+
+
+- La boss fight finale, screenshot récent
+![bossfight](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/bossfight.png)
+
+
 
 
 
