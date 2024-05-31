@@ -6,7 +6,7 @@ Jeu de type First Person Shooter sur le thème "Olympic Edition".
 BOUCHAKOUR Hussam - L3 Informatique Université d'Aix-Marseille
 
 # Liens:
-- [Visitez le dépôt GitHub GOW2024-Savior](https://github.com/huss4m/GOW2024-Savior)
+- [Visitez le dépôt GitHub](https://github.com/huss4m/GOW2024-Savior)
 - [Jouer en ligne](https://huss4m.github.io/GOW2024-Savior/)
 
 ## Mode d'emploi
