@@ -87,4 +87,4 @@ Ceux-ci ne disparaissent pas, vous pouvez donc choisir, par exemple, de ne pas p
   Dégâts très lourds, vitesse de recharge faible, précision faible, automatique à cadence de tir très élevée.  
   Utile contre des ennemis très résistants ou un rassemblement important d'ennemis, gourmand en munitions.
 
-Important: les armes ne sont pas débloquées automatiquement dans l'inventaire, il faut être vigilant et les récupérer soi-même sur le terrain lorsqu'elles sont disponibles.
+Les armes sont débloquées automatiquement dans l'inventaire au moment où elles sont disponibles.
