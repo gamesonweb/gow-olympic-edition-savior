@@ -14,6 +14,10 @@ BOUCHAKOUR Hussam - L3 Informatique Université d'Aix-Marseille
 
 ### Se déplacer
 
+- **Espace** - Sauter
+- **Shift** - Sprinter
+- **R** - recharger
+
 #### AZERTY
 
 - **Z** - en avant
@@ -28,13 +32,12 @@ BOUCHAKOUR Hussam - L3 Informatique Université d'Aix-Marseille
 - **D** - à droite
 - **A** - à gauche
 
-- **Espace** - Sauter
-- **Shift** - Sprinter
 
 1 2 3 et 4: armes 1, 2, 3 et 4 dans l'inventaire  
-Vous pouvez aussi utiliser la molette de la souris afin de circuler dans l'inventaire
+Vous pouvez aussi utiliser la molette de la souris afin de circuler dans l'inventaire.
+La touche 9 active un Godmode (triche): toutes vos stats sont au maximum et vous possédez 9000 points de vie ce qui vous rend quasiment invincible, vous pouvez vous en servir en cas de difficulté pour finir le jeu.
 
-- **R** - recharger
+
 
 ## Scénario
 
