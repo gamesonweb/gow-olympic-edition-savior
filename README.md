@@ -59,7 +59,7 @@ Vous incarnez un héros inattendu, un ancien athlète olympique autrefois acclam
 - **Zombie**: Lourds dégâts et inflige "Blessure mortelle" à chaque attaque: vous perdez alors 2 points de vie par seconde pendant 5 secondes, vitesse moyenne, apparaît à partir de la 4ème vague, grande résistance.
  ![Zombie](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/Zombie.png)
   
-- **Boss final**: Vitesse très faible mais très lourds dégâts, très résistant, possède une attaque à distance "Onde de choc" qui vous inflige de lourds dégâts et vous ralentit de 50% pendant 6 secondes.
+- **Boss final**: Vitesse très faible mais très lourds dégâts, très résistant, possède une attaque à distance "Onde de choc" qui vous inflige de lourds dégâts et vous ralentit de 50% pendant 6 secondes. Il fait également appel à des mutants de type aléatoire toutes les 45 secondes.
  ![Boss](https://raw.githubusercontent.com/huss4m/GOW2024-Savior/main/Boss.png)
 
 ## But du jeu
