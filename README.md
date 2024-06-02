@@ -179,7 +179,10 @@ Cependant, petit à petit, j'ai réussi à faire beaucoup de progrès au fil des
 
 L'idée de jeu vient du fait que je n'étais pas sûr de quel type de jeu faire au départ, j'ai donc décidé de faire un jeu de type First Person Shooter car je trouvais le concept plutôt amusant et qui pourrait me permettre de découvrir BabylonJS en profondeur. J'ai donc dû trouver un moyen original de le faire correspondre un maximum au thème, d'où l'idée de le faire se dérouler dans un stade olympique attaqué par des mutants, et faire un système de powerups (artefacts) qui augmente les capacités physiques (endurance, vitesse etc...), ce qui l'ancre (avec le scénario) assez fermement dans le thème Olympic Edition.
 
-La modélisation 3D elle aussi est un domaine dans lequel j'avais 0 expérience auparavant, étant seul dans mon équipe j'ai du apprendre petit à petit là aussi, cependant j'ai utilisé plusieurs modèles animés gratuits dont j'ai crédité les auteurs dans mon dépot github, ce qui m'a facilité grandement la tâche.
+La modélisation 3D elle aussi est un domaine dans lequel j'avais 0 expérience auparavant, étant seul dans mon équipe j'ai du apprendre petit à petit là aussi, cependant j'ai utilisé plusieurs modèles animés gratuits dont j'ai crédité les auteurs dans mon dépot github, ce qui m'a grandement facilité la tâche.
+
+Finalement, l'optimisation et la performance sont les derniers défis que j'ai rencontré vers la fin. J'ai donc essayé au maximum de minimiser au maximum les drawcalls dans le code ainsi que de simplifier les modèles (pour le logo olympique par exemple qui est sous forme de texture sur une Plane plutôt qu'un modèle 3D avec différents matériaux ) ou encore les grouper en une seule mesh.
+J'ai également tenté d'utiliser des instances sur les ennemis dans le jeu, cela a été très efficace pour augmenter les performances, cependant le problème est que les instances ne peuvent pas avoir d'animations indépendantes, elles jouent toutes la même animation au même moment, j'ai donc du abandonner cette approche.
 
 Voici quelques screenshots:
 
